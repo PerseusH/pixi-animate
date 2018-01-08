@@ -4,6 +4,10 @@ A plugin for Pixi.js which provides a runtime for content export using PixiAnima
 
 [![Build Status](https://travis-ci.org/jiborobot/pixi-animate.svg?branch=master)](https://travis-ci.org/jiborobot/pixi-animate) [![Dependency Status](https://david-dm.org/jiborobot/pixi-animate.svg)](https://david-dm.org/jiborobot/pixi-animate) [![npm version](https://badge.fury.io/js/pixi-animate.svg)](https://badge.fury.io/js/pixi-animate)
 
+#duhui1
+#new branch duhui1
+#duhui1 extra text
+#sssxxxxxxxaaaaaa
 ## Running Content
 
 ### Installing Library
